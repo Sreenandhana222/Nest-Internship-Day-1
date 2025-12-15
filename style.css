@@ -1,0 +1,57 @@
+ h1{
+      
+ text-align:left;
+        border-radius: 20px;
+    padding: 20px;
+  
+    }
+#first{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 1500px;
+}
+#second{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 1500px;
+}
+#third{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 1500px;
+}
+#four{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 1500px;
+}
+#fifth{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 1500px;
+}
+#sixth{
+     background-color: #009B4D;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+#sixth a{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+    font-weight: bold;
+
+}

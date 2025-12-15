@@ -1,0 +1,81 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #00994d;
+    padding: 15px;
+    border-radius: 0 0 20px 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 12px;
+}
+
+nav a:hover,
+nav a.active {
+    background-color: #007a3d;
+    border-radius: 6px;
+}
+
+/* Section Styling */
+section {
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+section h2 {
+    color: #00994d;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #00994d;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+section p {
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+/* Education Cards */
+.education-card {
+    margin-top: 20px;
+    padding: 20px;
+    border-left: 5px solid #00994d;
+    background-color: #f4fdf8;
+    border-radius: 8px;
+}
+
+.education-card h3 {
+    margin: 0;
+    color: #333;
+}
+
+.education-card p {
+    margin: 5px 0;
+}
+
+.education-card span {
+    font-size: 14px;
+    color: #666;
+}
+
